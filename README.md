@@ -15,6 +15,7 @@ This repository contains basic Python programs created for learning and practice
 - Functions
 
 ## Goal
+
 To build a strong foundation in Python for AI and software development.
 
 ##  Status
